@@ -25,7 +25,7 @@ The `txt` output file is tab delimited, contains a time-series of the Wii Balanc
 - `RAWTopLeft` - Raw sensor data of the TL sensor
 - `RAWTopRight` - Raw sensor data of the TR sensor
 
-<sup>a</sup> Please note, due to conversion from N to kg, and truncation, weight may not exactly match the sum of the sensor data. Weight should therefore be used as an indication of correct registration by the Wii Balance Board rather than an adequate measurement of the weight placed upon it.
+<sup>a</sup> Please note, due to conversion from N to kg, and truncation, weight may not exactly match the sum of the sensor data. Weight in the txt file should therefore be used as an indication of correct registration by the Wii Balance Board rather than an adequate measurement of the weight placed upon it.
 
 ## Posturography Measures.
 Once the Wii Balance Board is connected and the software is installed, one can obtain a `txt` file (tab delimited) to analyse, for example, the Center of Pressure (COP) of a subject performing a balance task. To select a segment and analyze frequently used COP parameters, one may use the R/Shiny web-application provided at this [GitHub repository](https://github.com/tomvredeveld/center-of-pressure-analysis-tool)  
