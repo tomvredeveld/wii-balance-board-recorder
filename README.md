@@ -2,10 +2,10 @@
 This is a Windows operating application to calibrate and collect data from a Wii Balance Board (WBB, Nintendo Co., Ltd., Kyoto, Japan.) through its bluetooth connection. 
 
 ## Getting started.
-To use the Wii Balance Recorder application, click the green 'code' button above. Then choose 'download as ZIP'. Unzip the folder and start up the installation procedures by clicking the .exe file inside the `Volume` folder. For further instructions how to use the software and calibrate the Wii Balance Board, refer to the [PDF manual](/Manual Wii-Balance-Board-Recorder (v1.0.0).pdf). 
+To use the Wii Balance Recorder application, click the green 'code' button above. Then choose 'download as ZIP'. Unzip the folder and start up the installation procedures by clicking the .exe file inside the `Volume` folder. For further instructions how to use the software and calibrate the Wii Balance Board, refer to the [PDF manual](Manual Wii-Balance-Board-Recorder (v1.0.0).pdf). 
 
 ## Connecting the Wii Balance Board & Set-up Manual
-As explained in more detail in the [manual](/Manual Wii-Balance-Board-Recorder (v1.0.0).pdf), the software does not provide the connection with the WBB. 
+As explained in more detail in the [manual](Manual Wii-Balance-Board-Recorder (v1.0.0).pdf), the software does not provide the connection with the WBB. 
 For our procedures, we relied on using the WiiBalanceWalker software described here [WiiBalanceWalker, v0.5, by Schacher Liberman](https://github.com/lshachar/WiiBalanceWalker). However, other software or the primary Windows bluetooth connection tools may work for you. In our experience, connecting the WBB without the WiiBalanceWalker software was troublesome.
 Our manual provides a guide how to combine WiiBalanceWalker and this Wii Balance Recorder to obtain calibrated data from the Wii Balance Board.
 
