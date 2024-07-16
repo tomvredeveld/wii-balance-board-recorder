@@ -34,7 +34,7 @@ Once the Wii Balance Board is connected and the software is installed, one can o
 This application was build and currently maintained by Vincent Tuinder from the Department of Human Movement Sciences at the Faculty of Behavioural and Movement Sciences, Vrije Universiteit Amsterdam. He asked me to upload and maintain the GitHub repository. 
 
 ### Disclaimer.
-The software uses external dependencies for which licenses are supplied in the `.\Installer\Volume\licence`  folders. The `wii-balance-board-recorder` includes third-party dependencies with their respective licenses, which are supplied for reference. We, do not claim to be the rightful owner of these dependencies.
+The software uses external dependencies for which licenses are supplied in the `.\Installer\Volume\licence`  folders. The `wii-balance-board-recorder` includes third-party dependencies with their respective licenses, which are supplied for reference. We, do not claim to be the rightful owner of these dependencies. In labVIEW, the WiiMote libraries were used to obtain the data from the Wii Balance Board.
 
 I have made every effort to ensure that the Wii Balance Board Recorder and its dependencies comply with applicable licenses and legal requirements. However, if you believe that any aspect of the application shared in this repository infringes on your rights or is not in compliance with relevant licenses, please contact me immediately, see the contact details below.
 
